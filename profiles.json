@@ -1,0 +1,24 @@
+{
+  "732d2f434914ce0b6f2eaa445b78c8275fe5ad8e37f89d81af498dacf47da384": {
+    "title": "O erotismo",
+    "start": 7,
+    "end": 177,
+    "note": "Intervalo inicial sugerido para esta cópia. Capas, ficha editorial e texto dos editores ficam fora da busca. Tradução de Antonio Carlos Viana."
+  },
+  "703cd9dffb691e16f5569bc3d5447334da9214a808db4fd6cf02ff9d84cc78d7": {
+    "title": "História do olho",
+    "start": 13,
+    "end": 52,
+    "note": "Intervalo inicial sugerido para esta cópia. Exclui o prefácio da tradutora e os ensaios finais de outros autores. Tradução de Eliane Robert Moraes. O OCR contém erros e o PDF reúne páginas duplas."
+  },
+  "1ff0b7bda28c7e2d66177aa51054cdc69e569a2db78c260d80c40daeceb345a1": {
+    "title": "A noção de despesa / A parte maldita",
+    "start": 19,
+    "end": 160,
+    "note": "Esta cópia contém duas obras. O intervalo sugerido exclui a introdução de outro autor. A ficha editorial apresenta falhas de codificação.",
+    "sections": [
+      {"title": "A noção de despesa", "start": 19, "end": 33},
+      {"title": "A parte maldita", "start": 34, "end": 160}
+    ]
+  }
+}
