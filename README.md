@@ -16,6 +16,14 @@ Azile é um anagrama de ELIZA. Neste projeto, a interface de conversa dá acesso
 
 A recuperação utiliza **TF-IDF e similaridade de cosseno**, sem embeddings. No modo **Consultar trechos**, cada pergunta é uma busca independente, com até três resultados. O modo opcional **Conversar com IA** usa até seis fontes recuperadas e um modelo configurado no Ollama para elaborar uma síntese interpretativa. Esse modo ainda precisa de avaliação com um modelo real e com os livros.
 
+## Desenvolvimento assistido por IA
+
+O projeto foi desenvolvido com apoio de IA generativa e práticas de **vibe coding**, partindo de uma proposta de leitura e interação com textos de Georges Bataille.
+
+Minha atuação envolve definir a experiência de uso, formular instruções para apoiar a implementação, revisar e adaptar o código, organizar o acervo de referência e testar os fluxos do protótipo. O desenvolvimento aproxima minha formação em artes e pesquisa sobre sistemas conversacionais da construção de uma ferramenta em Python e Streamlit.
+
+O código reúne recuperação textual com TF-IDF e uma integração experimental com modelos de linguagem via Ollama. A avaliação integrada com um modelo real e com os livros permanece como próxima etapa, conforme o estado de verificação registrado abaixo.
+
 ## Experimentar no computador
 
 Requer Python 3.10 ou superior. Baixe o repositório e abra o terminal na pasta do projeto.
